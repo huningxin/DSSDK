@@ -7484,7 +7484,7 @@ namespace DepthSense
                 protected:
                 virtual bool equals (EventHandlerBase* other) const
                 {
-                    StructFunctionHandler* f = dynamic_cast<StructFunctionHandler*>(other);
+                    StructFunctionHandler* f = static_cast<StructFunctionHandler*>(other);
                     return f != NULL && f->_func == _func;
                 }
                 private:
@@ -7523,7 +7523,7 @@ namespace DepthSense
                 protected:
                 virtual bool equals (EventHandlerBase* other) const
                 {
-                    StructClosureHandler* f = dynamic_cast<StructClosureHandler*>(other);
+                    StructClosureHandler* f = static_cast<StructClosureHandler*>(other);
                     return f != NULL && f->_closure == _closure && f->_closureData == _closureData;
                 }
                 private:
@@ -7566,7 +7566,7 @@ namespace DepthSense
                 protected:
                 virtual bool equals (EventHandlerBase* other) const
                 {
-                    StructMethodHandler* f = dynamic_cast<StructMethodHandler*>(other);
+                    StructMethodHandler* f = static_cast<StructMethodHandler*>(other);
                     return f != NULL && f->_obj == _obj && f->_method == _method;
                 }
                 private:
@@ -7920,7 +7920,7 @@ namespace DepthSense
                 protected:
                 virtual bool equals (EventHandlerBase* other) const
                 {
-                    StructFunctionHandler* f = dynamic_cast<StructFunctionHandler*>(other);
+                    StructFunctionHandler* f = static_cast<StructFunctionHandler*>(other);
                     return f != NULL && f->_func == _func;
                 }
                 private:
@@ -7959,7 +7959,7 @@ namespace DepthSense
                 protected:
                 virtual bool equals (EventHandlerBase* other) const
                 {
-                    StructClosureHandler* f = dynamic_cast<StructClosureHandler*>(other);
+                    StructClosureHandler* f = static_cast<StructClosureHandler*>(other);
                     return f != NULL && f->_closure == _closure && f->_closureData == _closureData;
                 }
                 private:
@@ -8002,7 +8002,7 @@ namespace DepthSense
                 protected:
                 virtual bool equals (EventHandlerBase* other) const
                 {
-                    StructMethodHandler* f = dynamic_cast<StructMethodHandler*>(other);
+                    StructMethodHandler* f = static_cast<StructMethodHandler*>(other);
                     return f != NULL && f->_obj == _obj && f->_method == _method;
                 }
                 private:

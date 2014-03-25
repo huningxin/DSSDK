@@ -139,7 +139,7 @@
 /// \subsubsection rtt-test-cxx C++ code
 /// \code
 /// MyBaseClass* base = param1;
-/// bool b = dynamic_cast<MyDerivedClass*>(base) != NULL;
+/// bool b = static_cast<MyDerivedClass*>(base) != NULL;
 /// \endcode
 ///
 /// \subsubsection rtt-test-ds DepthSense SDK code
@@ -154,7 +154,7 @@
 /// \code
 /// // if the cast fails, derived is NULL and the code crashes
 /// MyBaseClass* base = param1;
-/// MyDerivedClass* derived = dynamic_cast<MyDerivedClass*>(base);
+/// MyDerivedClass* derived = static_cast<MyDerivedClass*>(base);
 /// derived->someMethod();
 /// \endcode
 ///
@@ -171,7 +171,7 @@
 /// \subsubsection downcast-attempt-cxx C++ code
 /// \code
 /// MyBaseClass* base = param1;
-/// MyDerivedClass* derived = dynamic_cast<MyDerivedClass*>(base);
+/// MyDerivedClass* derived = static_cast<MyDerivedClass*>(base);
 /// bool castSucceeded = derived != NULL;
 /// \endcode
 ///

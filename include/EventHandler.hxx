@@ -64,7 +64,7 @@ namespace DepthSense
     protected:
         virtual bool equals (EventHandlerBase* other) const
         {
-            FunctionHandler<InterfaceType, DataType>* f = dynamic_cast< FunctionHandler<InterfaceType, DataType>* >(other);
+            FunctionHandler<InterfaceType, DataType>* f = static_cast< FunctionHandler<InterfaceType, DataType>* >(other);
             return f != NULL && f->_func == _func;
         }
 
@@ -88,7 +88,7 @@ namespace DepthSense
 
         virtual bool equals (EventHandlerBase* other) const
         {
-            GenericFunctionHandler<InterfaceType, DataType, FunctionType>* f = dynamic_cast< GenericFunctionHandler<InterfaceType, DataType, FunctionType>* >(other);
+            GenericFunctionHandler<InterfaceType, DataType, FunctionType>* f = static_cast< GenericFunctionHandler<InterfaceType, DataType, FunctionType>* >(other);
             return f != NULL && f->_func == _func;
         }
     };
@@ -112,7 +112,7 @@ namespace DepthSense
     protected:
         virtual bool equals (EventHandlerBase* other) const
         {
-            ClosureHandler<InterfaceType, DataType, ClosureDataType>* f = dynamic_cast< ClosureHandler<InterfaceType, DataType, ClosureDataType>* >(other);
+            ClosureHandler<InterfaceType, DataType, ClosureDataType>* f = static_cast< ClosureHandler<InterfaceType, DataType, ClosureDataType>* >(other);
             return f != NULL && f->_closure == _closure && f->_closureData == _closureData;
         }
 
@@ -140,7 +140,7 @@ namespace DepthSense
     protected:
         virtual bool equals (EventHandlerBase* other) const
         {
-            MethodHandler<InterfaceType, DataType, ObjectType>* f = dynamic_cast< MethodHandler<InterfaceType, DataType, ObjectType>* >(other);
+            MethodHandler<InterfaceType, DataType, ObjectType>* f = static_cast< MethodHandler<InterfaceType, DataType, ObjectType>* >(other);
             return f != NULL && f->_obj == _obj && f->_method == _method;
         }
 
@@ -166,7 +166,7 @@ namespace DepthSense
 
         virtual bool equals (EventHandlerBase* other) const
         {
-            GenericMethodHandler<InterfaceType, DataType, ObjectType, MethodType>* f = dynamic_cast< GenericMethodHandler<InterfaceType, DataType, ObjectType, MethodType>* >(other);
+            GenericMethodHandler<InterfaceType, DataType, ObjectType, MethodType>* f = static_cast< GenericMethodHandler<InterfaceType, DataType, ObjectType, MethodType>* >(other);
             return f != NULL && f->_obj == _obj && f->_method == _method;
         }
     };
