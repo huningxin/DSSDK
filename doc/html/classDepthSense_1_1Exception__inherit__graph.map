@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDepthSense_1_1ArgumentException.html" title="The type of the exception thrown when an argument is unset or invalid." alt="" coords="247,5,463,35"/>
+<area shape="rect" id="node5" href="$classDepthSense_1_1ConfigurationException.html" title="The type of the exception thrown when a valid configuration failed to apply." alt="" coords="236,59,473,88"/>
+<area shape="rect" id="node7" href="$classDepthSense_1_1InitializationException.html" title="The type of the exception thrown when an initialization error has occurred." alt="" coords="240,112,469,141"/>
+<area shape="rect" id="node9" href="$classDepthSense_1_1InvalidOperationException.html" title="The type of the exception thrown when the current state of an object does not support the requested o..." alt="" coords="228,165,481,195"/>
+<area shape="rect" id="node11" href="$classDepthSense_1_1IOException.html" title="The type of the exception throw when a device or file I/O operation has failed." alt="" coords="268,219,441,248"/>
+<area shape="rect" id="node13" href="$classDepthSense_1_1NotSupportedException.html" title="The type of the exception thrown when a unsupported operation is requested." alt="" coords="235,272,475,301"/>
+<area shape="rect" id="node15" href="$classDepthSense_1_1StreamingException.html" title="The type of the exception thrown when a streaming error has occurred." alt="" coords="245,325,464,355"/>
+<area shape="rect" id="node17" href="$classDepthSense_1_1TimeoutException.html" title="The type of the exception thrown when a timeout condition occurs." alt="" coords="252,379,457,408"/>
+<area shape="rect" id="node19" href="$classDepthSense_1_1TransportException.html" title="The type of the exception thrown when a network or protocol error has occurred." alt="" coords="248,432,461,461"/>
+<area shape="rect" id="node21" href="$classDepthSense_1_1UnauthorizedAccessException.html" title="The type of the exception thrown when access to a privileged operation is denied." alt="" coords="215,485,495,515"/>
+</map>
