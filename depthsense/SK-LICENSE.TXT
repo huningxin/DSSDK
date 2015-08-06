@@ -1,0 +1,127 @@
+SOFTKINETIC DEPTHSENSE SOFTWARE LICENSE AGREEMENT
+
+1.  Precedence and Definitions
+
+In the event of a conflict of applicable terms and conditions, the terms and conditions that govern shall be determined by the following priority: (a) the Softkinetic Supply Agreement (as defined below) and then (b) this SOFTKINETIC DEPTHSENSE SOFTWARE LICENSE AGREEMENT. For the purpose of the foregoing, an omission shall not of itself be considered to give rise to any conflict or inconsistency. Capitalized terms used in this Agreement shall have the meaning set forth in this Section 1, unless explicitly indicated otherwise:
+
+"Data" means any data (including but not limited to events, parameters and numerical data) provided by the Softkinetic DepthSense software Products;
+
+"Documentation" means written information in relation to Softkinetic DepthSense software Products;
+
+"Force Majeure Event" means any cause beyond Softkinetic's reasonable control, including, without limitation, strikes, lockouts, work stoppages or other collective labor disputes, act of a third party, act of terrorism, embargo or other governmental act, regulation or request, slowdown, war, riot, delay in transportation, or inability to obtain necessary labor, materials or manufacturing facilities or death or incapacity of persons fulfilling necessary tasks on the behalf of Softkinetic;
+
+"Intellectual Property Rights" means present and future patents, copyrights, neighbouring rights, works of authorship, rights in software, rights on semi-conductor topography, database rights, trademarks, trade names, logos, designs, models and trade secrets, know-how, applications for registration, and the right to apply for registration, for any of the above rights and all other intellectual or other property rights and equivalent or similar forms of protection existing anywhere in the world;
+
+"License Term" means the term specified in Section 3;
+
+"Open Source Software" means any software that is subject to any license that: (a) requires the licensor to permit reverse-engineering of the licensed software or other software incorporated into, derived from, or distributed with such licensed software; or (b) requires that the licensed software or other software incorporated into, derived from, or distributed with such licensed software (i) be distributed in source code form; (ii) be licensed for the purpose of making derivative works; (iii) be distributed at no charge; or (iv) be distributed in a manner contrary to the terms of this Agreement (an "Open Source License").  Open Source Licenses include but are not limited to: (A) GNU's General Public License (GPL) or Lesser/Library GPL (LGPL), (B) The Artistic License (e.g., PERL), (C) the Mozilla Public License, (D) the Netscape Public License, (E) the Sun Community Source License (SCSL), (F) the Sun Industry Standards Source License (SISL),  (G) the Apache Server license, (H) QT Free Edition License, (I) IBM Public License, (J) BitKeeper, (K) Berkeley Software Distribution (BSD) license, and (L) MIT license;
+
+"Party" means Softkinetic or Licensee individually, while "Parties" means Softkinetic and Licensee collectively;
+
+"Platform" means (i) the following operating system or environment into which the Softkinetic DepthSense software Products may be integrated: Windows or Linux (as applicable) and (ii) a Softkinetic DepthSense(R) DS3XX camera product or other compatible camera product;
+
+"Softkinetic" means SOFTKINETIC INTERNATIONAL SA/NV, a company incorporated and existing under the laws of Belgium, with registered offices at Boulevard de la Plaine 15, 1050 Brussels (Belgium), registered with the Crossroads bank for enterprises under company number 0811 784 189;
+
+"Softkinetic DepthSense software Products" means the object code version, and related disclosed source code, of the following software products, including the relevant Documentation, the attached source code samples, the RunTime binary files, the attached header and libraries files:
+
+ - DepthSense library;
+ - DepthSenseBenchmark;
+ - DepthSenseViewer;
+ - DepthSenseServer;
+ - DepthSense ConsoleDemo software.
+
+"Softkinetic Supply Agreement" means a hard copy or electronic supply agreement entered into between the Parties in relation to the purchase of a Softkinetic DepthSense(R) DS3XX camera product.
+
+2.  Scope of License, Permitted Uses and Restrictions
+
+Softkinetic hereby grants Licensee a non-exclusive, limited object code license to use the Softkinetic DepthSense software Products, for the License Term, with the Platform only, under the terms and conditions of this Agreement ("License"). For the avoidance of doubts, the Softkinetic DepthSense software Products are licensed, not sold. Licensee acquires no right, title or interest in the Softkinetic DepthSense software Products other than the License granted herein by Softkinetic. No right to use, copy, duplicate, or display the Softkinetic DepthSense software Products and/or any Data is granted, except as expressly provided herein.
+
+The Softkinetic DepthSense software Products cannot be integrated or used with any other operating system or environment than the Platform.
+
+Licensee shall at all times comply with any and all Documentation containing programming procedures, guidelines and recommendations relating to the use of the Softkinetic DepthSense software Products and any modification thereof notified to Licensee by Softkinetic from time to time.
+
+Except where expressly permitted under this Agreement, Licensee may not, and may not permit any third party to: (i) display or disclose the Softkinetic Products and/or any Data to third parties; (ii) download, copy, reverse engineer, reverse assemble, decompile or otherwise attempt to discover the source code, underlying ideas, underlying user interface techniques or algorithms or technical data of all or any disclosed and undisclosed portion of the  Softkinetic DepthSense software Products, save that Licensee is authorized to make one (1) back-up copy; (iii) reproduce, modify, translate, or create derivative works of any portion of the Softkinetic DepthSense software Products even for purposes of interoperability or error correction; (iv) resell, sublicense, distribute, transfer, or permit a third party to use the Softkinetic DepthSense software Products and/or any Data; (v) encumber or cause to exist any lien or security interest on the Softkinetic DepthSense software Products; (vi) take any action that would cause the Softkinetic DepthSense software Products, or any part thereof, to be placed in the public domain; (vii) use the Softkinetic DepthSense software Products on any computer environment other than the Platform; or (viii) incorporate into, combine with, or distribute in conjunction with the Softkinetic DepthSense software Products, or a derivative work thereof, any Open Source Software.
+
+3.  License Term - Early Termination of Agreement
+
+This Agreement is effective from the date of delivery of the Softkinetic DepthSense software Products ("Effective Date"). Unless earlier terminated as provided for herein, this Agreement shall remain in force for an unlimited period of time (the "License Term").
+
+Softkinetic may terminate this Agreement immediately if Licensee breaches any material term or condition of this Agreement.
+
+Upon the effective date of termination of this Agreement, Licensee will immediately cease all use of the Softkinetic DepthSense software Products in its possession and destroy all copies thereof within thirty (30) days of the effective date of termination of this Agreement. The expiry or termination of this Agreement (for whichever reason) will be without prejudice to the rights and obligations of either Party existing prior to such expiry or termination. The provisions in this Agreement that expressly or impliedly have effect after expiry or termination (including but not limited to provisions on Warranties, Limitation of Liability, Indemnification of Third Party IPR Claim, Ownership and Intellectual Property Rights, Confidentiality, Applicable Law and Dispute Resolution) shall remain in full force and continue to have effect notwithstanding expiry or termination of this Agreement.
+
+4.  Delivery of Softkinetic DepthSense software Products
+
+Softkinetic DepthSense software Products shall be delivered electronically or physically in combination with delivery of a purchased Softkinetic DepthSense(R) DS3XX camera product, and such electronic delivery shall occur upon e-mailing of the necessary download information to Licensee at the provided e-mail address. Physical deliveries of Softkinetic DepthSense software Products (as applicable) shall be FOB Brussels, Belgium.
+
+5.  Support
+
+Support, maintenance and other services may be provided by Softkinetic to Licensee under separate agreement.
+
+6.  Warranties
+
+Softkinetic warrants that: (a) for thirty days following initial delivery of the Softkinetic DepthSense software Products to Licensee, the unmodified Softkinetic DepthSense software Products, under normal use on the Platform for which it is intended, will perform all material functions described in its Documentation, and (b) Softkinetic has the right to grant the licenses and other rights set forth herein. If a defect is reported to Softkinetic during such thirty-day period, Softkinetic shall, at its option, repair or replace the Softkinetic DepthSense software Products.
+
+NO LICENSOR, AGENT OR EMPLOYEE IS AUTHORIZED TO MAKE ANY MODIFICATIONS, EXTENSIONS OR ADDITIONS TO THESE LIMITED WARRANTIES.
+
+EXCEPT AS PROVIDED ABOVE, THE SOFTKINETIC DEPTHSENSE SOFTWARE PRODUCTS ARE PROVIDED "AS IS", AND ALL OTHER EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS, AND WARRANTIES INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE (EVEN IF INFORMED OF SUCH PURPOSE), OR ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE, ARE HEREBY EXCLUDED TO THE LARGEST EXTENT ALLOWED BY APPLICABLE LAW. NO WARRANTY IS MADE THAT THE SOFTKINETIC DEPTHSENSE SOFTWARE PRODUCTS' FUNCTIONALITY WILL MEET LICENSEE'S REQUIREMENTS, OR THAT THE OPERATION OF THE SOFTKINETIC PRODUCTS WILL BE UNINTERRUPTED OR ERROR-FREE. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS AGREEMENT.
+
+7.  Limitation of Liability
+
+IN NO EVENT WILL SOFTKINETIC, ITS SUPPLIERS OR LICENSORS BE LIABLE FOR ANY LOST DATA, LOST REVENUE, LOST PROFITS, DAMAGE TO REPUTATION, BUSINESS INTERRUPTION, OR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, EXEMPLARY OR ANY SIMILAR TYPE OF DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO THE USE OR THE INABILITY TO USE THE SOFTKINETIC DEPTHSENSE SOFTWARE PRODUCTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IF SOFTKINETIC IS HELD LIABLE UNDER THIS AGREEMENT, SOFTKINETIC'S, ITS SUPPLIERS' AND LICENSORS' AGGREGATE MAXIMUM LIABILITY TO LICENSEE ARISING OUT OR RELATING TO THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO THE USE OR THE INABILITY TO USE THE SOFTKINETIC DEPTHSENSE SOFTWARE PRODUCTS, SHALL IN NO EVENT EXCEED A SUM EQUAL TO THE TOTAL AMOUNTS ACTUALLY PAID BY LICENSEE TO SOFTKINETIC UNDER THIS AGREEMENT.
+
+Softkinetic shall resolve claims related to Section 6.(b) in the manner provided in Section 8 "Indemnification of Third Party IPR Claim". The foregoing shall be Licensee's sole and exclusive remedies and the entire liability of Softkinetic and its licensors for any breach of the limited warranties provided under Section 6 "Warranties".
+
+8.  Indemnification of Third Party IPR Claim
+
+Without prejudice to Sections 6 and 7 ("Warranties" and "Limitation of Liability"), Softkinetic shall indemnify Licensee from and against any final judgment by a court of competent jurisdiction, that the Softkinetic DepthSense software Products used in accordance with Softkinetic's instructions and recommendations and the Documentation infringe any patent or copyright of a third party ("Third Party IPR Claim"), excluding any and all Third Party IPR Claim resulting from: (i) Licensee's or any third party's modification of any of the Softkinetic DepthSense software Products not expressly approved by Softkinetic in writing, (ii) Licensee's failure to use the most recent version of the Softkinetic DepthSense software Products made available to Licensee or to integrate or install all corrections to such Softkinetic DepthSense software Products issued by Softkinetic, (iii) the use of the Softkinetic DepthSense software Products in combination with any software, hardware, data and/or material not provided by Softkinetic where such Third Party IPR Claim would not have occurred but for the combination or (iv) the Softkinetic DepthSense software Products being developed to Licensee's design or incorporating documents, materials, ideas, data or other information, provided by Licensee where such Third Party IPR Claim would not have occurred but for the design or incorporation.
+
+Such indemnity obligation shall be conditional upon the following: (i) Softkinetic is given prompt written notice of any such Third Party IPR Claim; (ii) Softkinetic has the exclusive right to control and direct the defense and/or settlement of such Third Party IPR Claim; (iii) Licensee provides reasonable assistance to Softkinetic (at Softkinetic's expense) in such defense and/or settlement of such Third Party IPR Claim; (iv) Licensee has not compromised or prejudiced Softkinetic's position on the Third Party IPR Claim and (iv) Licensee makes no admissions or settlements without Softkinetic's express prior written consent.
+
+In the event of any such Third Party IPR Claim, litigation or threat thereof, or in the event the Softkinetic DepthSense software Products or any part thereof, in Softkinetic's reasonable opinion, are likely to or do become the subject of a Third Party IPR Claim, and without prejudice to Sections 6 and 7, Softkinetic, at its sole option and expense, shall (a) procure for Licensee the right to continue to use the Softkinetic DepthSense software Products, (b) replace or modify the Softkinetic DepthSense software Products with a non-infringing and functionally substantially equivalent solution, or (c) terminate this Agreement immediately without any penalty.
+
+THIS SECTION 8 STATES THE ENTIRE LIABILITY OF SOFTKINETIC WITH RESPECT TO ANY INFRINGEMENT OR ALLEGED INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS CAUSED BY THE SOFTKINETIC DEPTHSENSE SOFTWARE PRODUCTS AND/OR DOCUMENTATION (AS APPLICABLE), OR ANY PART THEREOF, AND LICENSEE HEREBY EXPRESSLY WAIVES ANY OTHER LIABILITIES OR OBLIGATIONS OF SOFTKINETIC WITH RESPECT THERETO.
+
+9.  Ownership and Intellectual Property Rights
+
+The Softkinetic DepthSense software Products are proprietary to Softkinetic or its licensors and protected by applicable Intellectual Property Rights. Softkinetic and its licensors shall retain title to the Softkinetic DepthSense software Products and all Intellectual Property Rights (and any other rights) embodied therein. All proprietary notices incorporated in or affixed to any Softkinetic DepthSense software Products shall be duplicated by Licensee on all authorized copies of the Softkinetic DepthSense software Products, as applicable, and shall not be altered, removed or obliterated.
+
+10. Confidentiality
+
+The source code of the Softkinetic DepthSense software Products are confidential and proprietary information of Softkinetic or its licensors.
+
+The terms of this Agreement, all information marked as proprietary or confidential, any provided software, hardware, related documentation, evaluation or tests results, any methods, concepts or processes utilized in the Softkinetic DepthSense software Products and/or Documentation ("Confidential Information") shall remain the sole property of Softkinetic and shall not be disclosed by Licensee to any non-authorized user without the prior written consent of Softkinetic.
+
+If Confidential Information is communicated orally, such communication shall be confirmed as "Confidential" in writing within fifteen (15) days of such disclosure. Licensee agrees to use Softkinetic's Confidential Information solely for authorized purposes under this Agreement and to protect the Confidential Information of Softkinetic in the same manner it protects the confidentiality of similar information and data of its own (and at all times exercising at least a reasonable degree of care).
+
+These confidentiality obligations shall apply during both the license term and a period of five (5) years thereafter.
+
+Except with respect to the Softkinetic DepthSense software Products, Licensee will not have any obligation with respect to any Confidential Information that Licensee can prove: (i) is or becomes publicly available through no wrongful act of Licensee; (ii) was lawfully obtained by Licensee from a third party without any obligation to maintain the Confidential Information as proprietary or confidential; (iii) was previously known to Licensee without any obligation to keep it confidential; (iv) was independently developed by Licensee; or (v) must be disclosed in order to comply with applicable law or regulation or with the rules of a stock exchange on which Licensee is listed, in each case to the extent of the required disclosure and in no other respect. Licensee agrees to indemnify Softkinetic for any damages it may sustain resulting from the unauthorized use and/or disclosure of Softkinetic's Confidential Information. Such damages shall include reasonable expenses incurred in seeking both legal and equitable remedies.
+
+11. Export
+
+The Softkinetic DepthSense software Products and related technical data may be subject to export or import regulations. Licensee hereby assures Softkinetic that it shall comply with all such regulations and agrees to obtain all necessary licenses to export, re-export or import the Softkinetic DepthSense software Products and related technical data, as applicable.
+
+12. Third Party Products
+
+The Softkinetic DepthSense software Products may contain or be accompanied by certain third party products that are provided to Licensee under terms and conditions that are different from this Agreement, or which require Softkinetic to provide Licensee with separate terms of use agreement, certain notices and/or other related information. Licensee's use of a third party product for which Softkinetic may have identified separate terms of use agreement, notices and/or other related information will be subject to the terms and conditions contained therein. This Agreement shall not apply to such third party programs.
+
+13. Miscellaneous
+
+Amendments. No amendment or modification of this Agreement shall take effect unless it is in writing and is executed by duly authorized representatives of the Parties.
+
+Nature of relationship between the Parties - Independent Contractors. None of the provisions of this Agreement can be interpreted as indicating consent by the Parties to form a partnership, joint venture or other association between the parties, nor shall one Party be considered the agent or employee of the other. Each Party acknowledges that it has not been, is not and shall not be entitled to legally represent or bind the other Party, such as, for instance, by entering into agreements or understandings or by accepting or assuming other rights and obligations on behalf of the other Party.
+
+Notices. Any notice with reference to this Agreement shall be validly made with respect to each of the Parties when sent in writing by registered mail, email or fax with request for acknowledgment of receipt to the addresses and numbers communicated during the registration process or to any other address subsequently notified. Any change of address must be notified by registered letter, the new address being considered the official address for purposes of this Agreement from the third business day following the sending of such notice letter.
+
+Assignment. Licensee may only transfer all its rights and obligations arising under this Agreement to a third party together with a transfer of possession of a Softkinetic DepthSense(R) DS3XX camera product. Licensee hereby consents to Softkinetic assigning or transferring all or part of its rights and obligations arising under this Agreement to a Softkinetic's affiliated or associated company, subject to prior written notification of any such assignment or transfer to Licensee. Subject to any restrictions on assignment herein contained, the provisions of this Agreement shall inure to the benefit of and shall be binding upon the Parties hereto and their respective heirs, legal representatives, successors and assigns. For the purposes of this Agreement, "affiliated or associated company" shall mean, with respect to either Party, any one or more legal entities (i) owned or controlled by a Party, (ii) owning or controlling a Party, or (iii) owned or controlled by the legal entity owning or controlling a party. For the purpose of this definition a legal entity shall be deemed to own or control another legal entity if more than 50% (fifty percent) of the voting stock of the latter legal entity, ordinarily entitled to vote in the meetings of shareholders of that entity, is held directly or indirectly by the owning and/or controlling legal entity.
+
+Waiver. Any failure or delay by either Party in exercising any right under this Agreement, in whole or in part, or any reaction or absence of reaction by either Party in the event of violation by the other Party of one or more provisions of this Agreement shall not operate or be interpreted as a waiver (whether express or implied, in whole or in part) of any of its rights under this Agreement or under said provision(s), nor shall it preclude the further exercise of any such rights. Any waiver of a right must be express and in writing.
+
+Severability. If one or more of the provisions of this Agreement is declared to be invalid, illegal or unenforceable in any respect under any applicable law, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected. In the case whereby such invalid, illegal or unenforceable clause affects the entire nature of this Agreement, each of the Parties shall use its best efforts to immediately and in good faith negotiate a legally valid replacement provision. If no agreement on such provision has been reached within a period of thirty (30) days, each of the Parties shall have the right to terminate the Agreement upon thirty (30) days advance written notice.
+
+Force Majeure. Softkinetic shall not be liable for a delay or failure to fulfil any of its obligations under this Agreement arising from a Force Majeure Event.
+
+Headings. The titles and headings included in this Agreement are inserted merely for convenient reference and do not express in any way the intended understanding of the Parties. They shall not be taken into account in the interpretation of the provisions of this Agreement.
+
+Applicable Law and Dispute Resolution. All issues, questions and disputes concerning the validity, interpretation, enforcement, performance or termination of this Agreement shall be governed by and construed in accordance with Belgian law, and no effect shall be given to any other choice of law or any conflict-of-laws rules or provisions (Belgian, foreign or international) that could cause the laws of any jurisdiction other than Belgium to be applicable. Any dispute concerning the validity, interpretation, enforcement, performance or termination of this Agreement or otherwise arising out of or in relation with this Agreement shall be finally settled under the CEPANI Rules of Arbitration by one or more arbitrators appointed in accordance with those Rules (http://www.cepani.be/EN). The arbitral tribunal shall be composed of three (3) arbitrators. The seat of the arbitration shall be Brussels (Belgium). The arbitration shall be conducted in the English language.

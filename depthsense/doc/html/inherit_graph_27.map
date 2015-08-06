@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classDepthSense_1_1Interface.html" title="The base interface class." alt="" coords="7,59,159,88"/>
+<area shape="rect" id="node3" href="$classDepthSense_1_1Context.html" title="Represents an application session." alt="" coords="209,5,356,35"/>
+<area shape="rect" id="node5" href="$classDepthSense_1_1Device.html" title="Represents a camera device." alt="" coords="212,59,353,88"/>
+<area shape="rect" id="node7" href="$classDepthSense_1_1Node.html" title="Represents a stream data source." alt="" coords="216,112,349,141"/>
+<area shape="rect" id="node9" href="$classDepthSense_1_1AudioNode.html" title="Represents an audio stream data source." alt="" coords="427,32,592,61"/>
+<area shape="rect" id="node11" href="$classDepthSense_1_1ColorNode.html" title="Represents a color stream data source." alt="" coords="428,85,591,115"/>
+<area shape="rect" id="node13" href="$classDepthSense_1_1DepthNode.html" title="Represents a depth stream data source." alt="" coords="425,139,593,168"/>
+<area shape="rect" id="node15" href="$classDepthSense_1_1UnsupportedNode.html" title="Represents an unsupported stream data source." alt="" coords="407,192,612,221"/>
+</map>
